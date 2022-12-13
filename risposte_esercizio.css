@@ -1,0 +1,30 @@
+/* animation solution */
+
+
+/* esercizio 1 */
+
+.ex-1-square {
+    transition: all 2s;
+}
+
+.ex-1-square:hover {
+    background-color: red;
+}
+
+/* Esercizio 2 */
+
+.ex-2-square {
+    transition: linear 2s;
+}
+
+.ex-2-square:active {
+    width: 50%;
+}
+
+/* Esercizio 3 */
+
+.ex-3-square {
+    transition: linear 2s;
+}
+
+.ex-3-square:hover {}
