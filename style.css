@@ -82,3 +82,10 @@
 }
 
 /* Esercizio 2 */
+
+.ex-2-square{
+    transition: linear 2s;
+}
+.ex-2-square:active{
+    width: 50%;
+}
